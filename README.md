@@ -9,7 +9,7 @@ https://developers.sap.com/tutorials/cp-wdi5-cap.html
 
 ## Requirements & Installation
 
-Refer to the prerequisites in the SAP tutorial above.test
+Refer to the prerequisites in the SAP tutorial above.tes
 
 ## Known Issues
 
